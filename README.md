@@ -2,9 +2,12 @@
 
 ### Question to be answered: Why can't we predict the tropic Atlantic SST well on seasonal time scale?
 
+------
 ## Focused Regions:
 * [The tropic Atlantic] (docs/SP_Tropic_Atlantic_SST.markdown)
 
+
+------
 #### Data: 
 
 * 4 seasonal forecast systems from [EUROSIP] (http://old.ecmwf.int/products/forecasts/seasonal/documentation/eurosip/index.html) database which counts
