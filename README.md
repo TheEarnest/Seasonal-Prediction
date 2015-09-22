@@ -3,13 +3,14 @@
 ### 1st Goal: Why can't we predict the tropic Atlantic SST well on seasonal time scale?
 
 
-4 seasonal forecast systems from EUROSIP (http://old.ecmwf.int/products/forecasts/seasonal/documentation/eurosip/index.html) database which counts
-19 seasonal forecast systems from NMME (http://www.cpc.ncep.noaa.gov/products/NMME/)
-7 forecast systems from SPECS (http://www.specs-fp7.eu/)
+* 4 seasonal forecast systems from [EUROSIP] (http://old.ecmwf.int/products/forecasts/seasonal/documentation/eurosip/index.html) database which counts
+* 19 seasonal forecast systems from [NMME] (http://www.cpc.ncep.noaa.gov/products/NMME/)
+* 7 forecast systems from [SPECS] (http://www.specs-fp7.eu/)
+
 
 Here are four references for seasonal prediction that could be interesting:
 
-Barnston, A. G., M. K. Tippett, M. L. L'Heureux, S. Li, and D. G. DeWitt, 2011: Skill of Real-Time Seasonal ENSO Model Predictions during 2002‚Äì11: Is Our Capability Increasing? Bulletin of the American Meteorological Society, 93, 631-651.
+Barnston, A. G., M. K. Tippett, M. L. L'Heureux, S. Li, and D. G. DeWitt, 2011: [Skill of Real-Time Seasonal ENSO Model Predictions during 2002‚Äì11: Is Our Capability Increasing? Bulletin of the American Meteorological Society] (http://journals.ametsoc.org/doi/abs/10.1175/BAMS-D-11-00111.1), 93, 631-651.
 
 Jin, E. K., J. L. Kinter, B. Wang, C. K. Park, I. S. Kang, B. P. Kirtman, J. S. Kug, A. Kumar, J. J. Luo, J. Schemm, J. Shukla, and T. Yamagata, 2008: Current status of ENSO prediction skill in coupled ocean-atmosphere models. Climate Dynamics, 31, 647-664.
 
