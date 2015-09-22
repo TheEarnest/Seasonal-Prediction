@@ -1,10 +1,8 @@
 # Seasonal-Prediction
 
-<<<<<<< HEAD
 ### Question: Why can't we predict the tropic Atlantic SST well on seasonal time scale?
 =======
 ### Question to be answered: Why can't we predict the tropic Atlantic SST well on seasonal time scale?
->>>>>>> 1397b6bcf9d870b68c25bd877711c6d2be688af3
 
 
 #### Data: 
