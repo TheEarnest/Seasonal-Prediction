@@ -2,6 +2,8 @@
 
 ### Question to be answered: Why can't we predict the tropic Atlantic SST well on seasonal time scale?
 
+## Focused Regions:
+* [The tropic Atlantic] (docs/SP_Tropic_Atlantic_SST.markdown)
 
 #### Data: 
 
