@@ -6,8 +6,10 @@
 #### Data: 
 
 * 4 seasonal forecast systems from [EUROSIP] (http://old.ecmwf.int/products/forecasts/seasonal/documentation/eurosip/index.html) database which counts
-  * 
 * 19 seasonal forecast systems from [NMME] (http://www.cpc.ncep.noaa.gov/products/NMME/)
+  * [Global skill map (10 lead months)] (http://ftp.cpc.ncep.noaa.gov/International/nmme/) (in binary format with description file (.ctl))
+  * [Hincast data (phase I)] (http://iridl.ldeo.columbia.edu/SOURCES/.Models/.NMME/)
+    * [Data downloading page] (http://iridl.ldeo.columbia.edu/SOURCES/.Models/.NMME/.GFDL-CM2p1/.MONTHLY/.sst/datafiles.html) (GFDL as an example)
 * 7 forecast systems from [SPECS] (http://www.specs-fp7.eu/)
 
 
