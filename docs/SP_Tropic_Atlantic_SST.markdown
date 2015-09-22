@@ -5,7 +5,7 @@
 >> Based on the available observations
 >> Starts with one of models involved in the CPC NMME project.
  
-* GFDL GFS (model version__?__) (24 members__?__)
+* GFDL GFS (model version __(?)__) (24 members __(?)__)
   * Skills we are going to look at:
     * SST 
     * Surface wind
