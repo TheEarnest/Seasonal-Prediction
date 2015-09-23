@@ -4,7 +4,7 @@
 
 ------
 ## Focused Regions:
-* [The tropic Atlantic] (docs/SP_Tropic_Atlantic_SST.markdown)
+* [The tropical Atlantic] (docs/SP_Tropical_Atlantic_SST.markdown)
 
 
 ------
