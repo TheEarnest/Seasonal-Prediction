@@ -4,10 +4,10 @@
 
 ## Prediction Skills ##
 >> Evaluatable skills of the tropic Atlantic
->> Based on the available observations
+>> Based on the available observations (__HadISST__)
 >> Starts with one of models involved in the CPC NMME project.
  
-* __GFDL__ CFS (model version __(?)__) (24 members __(?)__)
+* __NCEP-CFS__ (model version __2__) (24 members)
   * Skills we are going to look at:
 
     * SST ![](../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
