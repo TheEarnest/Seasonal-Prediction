@@ -10,7 +10,7 @@
  
 - - -
 
-    * SST ![] (../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
+    * SST ![](../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
 
 - - -
 
