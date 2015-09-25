@@ -1,4 +1,4 @@
-# Seasonal-Prediction on SST (ALT3) of the tropic Atlantic 
+# Seasonal Prediction on SST (ALT3) of the tropic Atlantic 
 
 * ALT3 (20W-0W, 3S-3N) (pic of climatology)
 
