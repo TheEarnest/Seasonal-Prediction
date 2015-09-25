@@ -5,12 +5,11 @@
 >> Based on the available observations
 >> Starts with one of models involved in the CPC NMME project.
  
-* GFDL GFS (model version __(?)__) (24 members __(?)__)
+* __GFDL__ CFS (model version __(?)__) (24 members __(?)__)
   * Skills we are going to look at:
-
+ 
 - - -
-    * SST 
-![] (../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
+    * SST ![] (../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
 
 - - -
 
