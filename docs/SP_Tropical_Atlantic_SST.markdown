@@ -10,7 +10,7 @@
 * __NCEP-CFS__ (model version __2__) (24 members)
   * Skills we are going to look at:
 
-    * SST ![](../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr.png)
+    * SST ![](../figures/Tropical_Atlantic_SST/CFSv2_HadISST_Corr_ATL3.png)
 
     * Wind stress
     
