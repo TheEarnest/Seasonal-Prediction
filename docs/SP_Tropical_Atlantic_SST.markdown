@@ -46,4 +46,9 @@ or is it purely monthly anomaly? (normally skill will be better if seasonal aver
 #### thoughts ####
   * Should the energy budget be studied? 
 
+caxis([MinVal MaxVal])
+lim = get(gca,'clim');
+mycmap = redblue((lim(2)-lim(1))*2*ICMAP);
+acmap = mycmap(1:4:end,:); %acmap(end/2:(end/2+1),:) = 1;
+colormap(acmap);
 

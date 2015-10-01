@@ -15,6 +15,7 @@
   * [Global skill map (10 lead months)] (http://ftp.cpc.ncep.noaa.gov/International/nmme/) (in binary format with description file (.ctl))
   * [Hincast data (phase I)] (http://iridl.ldeo.columbia.edu/SOURCES/.Models/.NMME/)
     * [Data downloading page] (http://iridl.ldeo.columbia.edu/SOURCES/.Models/.NMME/.GFDL-CM2p1/.MONTHLY/.sst/datafiles.html) (GFDL as an example)
+  * [Hincast data (phase II)] (https://www.earthsystemgrid.org/search.html?Project=NMME)
 * 7 forecast systems from [SPECS] (http://www.specs-fp7.eu/)
   * Data available on [Earth System Grid Federation] (http://esgf.llnl.gov/)
 
